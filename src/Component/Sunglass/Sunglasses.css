@@ -1,0 +1,17 @@
+.sunglass-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+span{
+    color: rgb(80, 135, 157);
+}
+
+.sunglass-info{
+    border: 2px solid skyblue;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, #7caed497 0px 2px 6px 2px;
+}
+

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aviator Classic",
+    "brand": "Ray-Ban",
+    "price": 159
+  },
+  {
+    "id": 2,
+    "name": "Holbrook",
+    "brand": "Oakley",
+    "price": 145
+  },
+  {
+    "id": 3,
+    "name": "Clubmaster",
+    "brand": "Ray-Ban",
+    "price": 153
+  },
+  {
+    "id": 4,
+    "name": "Fitz",
+    "brand": "Warby Parker",
+    "price": 95
+  },
+  {
+    "id": 5,
+    "name": "Rectangular Polarized",
+    "brand": "Maui Jim",
+    "price": 249
+  },
+  {
+    "id": 6,
+    "name": "The Dita Flight-Seven",
+    "brand": "DITA",
+    "price": 525
+  },
+  {
+    "id": 7,
+    "name": "Sheldrake",
+    "brand": "Oliver Peoples",
+    "price": 335
+  },
+  {
+    "id": 8,
+    "name": "Wayfarer",
+    "brand": "Ray-Ban",
+    "price": 151
+  },
+  {
+    "id": 9,
+    "name": "Lennon Round",
+    "brand": "Persol",
+    "price": 205
+  },
+  {
+    "id": 10,
+    "name": "Flat Top",
+    "brand": "Gucci",
+    "price": 420
+  }
+]
